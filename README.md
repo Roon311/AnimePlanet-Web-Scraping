@@ -35,6 +35,10 @@ You can customize the script by modifying the following parts:
 - `season` variable: Set your desired season in the format `season-YYYY`.
 - `image.thumbnail((156, 222))`: Customize the size of the inserted images by changing the dimensions `(156, 222)`.
 
+## Example
+summer-2023
+![image](https://github.com/Roon311/AnimePlanet-Web-Scraping/assets/75309751/c6bbac2b-d174-4d22-a831-5ffc111a371a)
+
 ## Note
 
 - The script uses web scraping to gather anime data from Anime-Planet. Ensure you have a stable internet connection.
