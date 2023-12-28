@@ -1,7 +1,7 @@
 # AnimePlanet-Web-Scraping
 
 
-This script allows you to scrape anime information for a specific season from Anime-Planet Website and create a Word document with the details.
+This is a simple script using beautifulsoup4 that allows you to scrape anime information for a specific season from Anime-Planet Website and create a Word document with the details.
 
 ## Prerequisites
 
